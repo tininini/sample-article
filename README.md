@@ -1,2 +1,2 @@
 Sample article with basic html & css
-![image](https://github.com/tininini/sample-article/assets/106431859/74b235bd-bdc4-4315-a282-d537c7d556ef)
+![Sample-article](https://github.com/tininini/sample-article/assets/106431859/14b006e1-5e3f-4b0c-93eb-092b35fef1dc)
